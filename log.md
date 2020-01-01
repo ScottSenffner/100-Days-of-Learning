@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Leaning - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: Jan. 1, 2020
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
