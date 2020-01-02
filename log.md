@@ -8,7 +8,8 @@
 
 ### Day 2: Jan. 2, 2020
 
-**Today's Progress**: Worked more on Learning how to configure Visual Studio Code for basic development setup.  When I am done with this tutorial, I am going to take one on Github / Markdown, as it is totally new for me.
+**Today's Progress**: 
+Continued on with the youtube video of learning how to configure Visual Studio Code for basic development setup.  I did my first updates to this log.md in Visual Studio and was able to commit it to github. When I am done with this tutorial, I am going to take one on Github / Markdown, as it is totally new for me.
 
 **Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
