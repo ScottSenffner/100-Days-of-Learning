@@ -1,10 +1,7 @@
 # 100 Days Of Leaning - Log
 
 ### Day 1: Jan. 1, 2020
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on Learning how to configure Visual Studio Code for Python.  Only got througt the first 15 minutes, as I was writing some additional code to play around.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
