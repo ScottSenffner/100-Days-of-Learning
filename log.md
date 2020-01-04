@@ -13,3 +13,13 @@ Continued on with the youtube video of learning how to configure Visual Studio C
 
 **Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
+### Day 3: Jan. 3, 2020
+
+**Today's Progress**: 
+Continued on with the youtube video of learning how to configure Visual Studio Code for development setup. 
+
+Learned a little bit about using virtual environments or VENV, which I will have to check out his video on. [Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module](hhttps://www.youtube.com/watch?v=APOPm01BVrk)
+
+Code formating is going to be handy as well as Code Runner.
+
+**Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
