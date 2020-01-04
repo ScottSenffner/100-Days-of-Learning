@@ -18,8 +18,13 @@ Continued on with the youtube video of learning how to configure Visual Studio C
 **Today's Progress**: 
 Continued on with the youtube video of learning how to configure Visual Studio Code for development setup. 
 
-Learned a little bit about using virtual environments or VENV, which I will have to check out his video on. [Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module](hhttps://www.youtube.com/watch?v=APOPm01BVrk)
+Learned a little bit about using virtual environments or VENV, which I will have to check out his video on. [Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=APOPm01BVrk)
 
 Code formating is going to be handy as well as Code Runner.
 
 **Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+
+### Day 4: Jan. 4, 2020
+
+**Today's Progress**: 
+Actually worked on trying to figure out markdown syntax. I found a little [Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf), plus the official [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). I still need to rap my head around this.  I kind of see why they didn't follow html format, as you have to close the statement, however, it still takes time to get used to.
