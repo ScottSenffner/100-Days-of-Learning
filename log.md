@@ -35,3 +35,8 @@ Actually worked on trying to figure out markdown syntax. I found a little [Cheat
 Continued on with the youtube video of learning how to configure Visual Studio Code for development setup.  I love the feature for debugging a script. You can create break points. What I like about this, is you can drill down, on the left hand side, to all the variables. I have been looking for something like this to be able to start on the python script I want to make to scrap a webpage on a daily basis. I hope to start working on it soon and publish it.  I like the [requests library](https://requests.readthedocs.io/en/master/).
 
 **Link to youtube video:** [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+
+### Day 6: Jan. 6, 2020
+
+**Today's Progress**: 
+Started a webscraping tutorial to scape a website. I want to be able to run it daily and email me the contents. It is under py_scripts/webscapy.py
