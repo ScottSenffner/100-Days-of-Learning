@@ -11,6 +11,6 @@ page = requests.get(wau_page)
 soup = BeautifulSoup(page, "html.parser")
 
 # Take out the <div> of name and get its value
-results = soup.find(class='reading')
+results = soup.find_all("article")
 
 print(results)

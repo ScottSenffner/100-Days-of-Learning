@@ -40,3 +40,14 @@ Continued on with the youtube video of learning how to configure Visual Studio C
 
 **Today's Progress**: 
 Started a webscraping tutorial to scape a website. I want to be able to run it daily and email me the contents. It is under py_scripts/webscapy.py
+
+### Day 7: Jan. 7, 2020
+
+**Today's Progress**: 
+Going through documentation on BeautifulSoup online. I also dug up my Python for Everyone book and was reviewing it.  I was also looking into some lean agile concepts from The Unicorn Project.
+
+### Day 8: Jan. 8, 2020
+
+**Today's Progress**: 
+I had the opportunity to finishing listening to the Unicorn Project. I have started to take notes on how to create more workflow were I work, currently.
+
