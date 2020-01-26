@@ -142,10 +142,11 @@ Today, I learned more about #BlueTeams with Eric Conrad's video about Threat Hun
 
 **Link to youtube video:** 
 [Threat Hunting via Sysmon - SANS Blue Team Summit](https://youtu.be/7dEfKn70HCI)
+
 [Hunting for Post-Exploitation Stage Attacks with Elastic Stack and the MITRE ATT&CK Framework](https://youtu.be/PdCQChYrxXg)
 
 ### Day 26: Sunday, Jan. 26, 2020
 
 **Today's Progress**: 
-Today, 
+Today, I am working on figuring out what I need to do to create a Elastic stack on my home network first. Once I figure it out, I want to implement it at work. 
 
