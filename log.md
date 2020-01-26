@@ -109,3 +109,43 @@ Today, I installed the MX64 firewall. I replaced a NETGEAR SRX5308. I also blow 
 Today, redid my Kali linux VM again twice, not exactly sure why I flubed it the first time.  Working on Maltego setup and testing. 
 
 Watching NFL championship games as well.
+
+### Day 20: Monday, Jan. 20, 2020
+
+**Today's Progress**: 
+Today, worked on Kali Linux and the classes at hackingloops.com
+
+### Day 21: Tuesday, Jan. 21, 2020
+
+**Today's Progress**: 
+Today, I started watching some #BlueTeam classes.
+
+### Day 22: Wednesday, Jan. 22, 2020
+
+**Today's Progress**: 
+Today, I started learning about Sysinternals Sysmon and Autoruns. 
+
+### Day 23: Thursday, Jan. 23, 2020
+
+**Today's Progress**: 
+Today, I started learning ElasticSearch, Logstach, Kabana
+
+### Day 24: Friday, Jan. 24, 2020
+
+**Today's Progress**: 
+Today, I started learning ElasticSearch, Logstach, Kabana
+
+### Day 25: Saturday, Jan. 25, 2020
+
+**Today's Progress**: 
+Today, I learned more about #BlueTeams with Eric Conrad's video about Threat Hunting with Sysmon and John Hubbard's video about Hunting with Elastic Stack and MITRE ATT&CK.  Both videos were awesome, I learned a lot.
+
+**Link to youtube video:** 
+[Threat Hunting via Sysmon - SANS Blue Team Summit](https://youtu.be/7dEfKn70HCI)
+[Hunting for Post-Exploitation Stage Attacks with Elastic Stack and the MITRE ATT&CK Framework](https://youtu.be/PdCQChYrxXg)
+
+### Day 26: Sunday, Jan. 26, 2020
+
+**Today's Progress**: 
+Today, 
+
